@@ -3,5 +3,10 @@
     width : 100px;
     float : left;
     margin : 20px;
-    background-color : black
+    background-color :white;
+    color : black;
+    font-size : 10em;
+    text-align: center;
+    vertical-align: middle;
+    line-height: 100px;
 }
